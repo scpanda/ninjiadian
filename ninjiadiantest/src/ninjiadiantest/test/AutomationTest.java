@@ -16,7 +16,7 @@ public class AutomationTest {
 		njdtest.logintest("18621666529", "123456");
 	}
 	
-	//µÇÂ¼²âÊÔ
+	//ç™»å½•æµ‹è¯•
 	public void logintest(String user_name,String user_passwd){
 		
 		WebElement loginbutton;
